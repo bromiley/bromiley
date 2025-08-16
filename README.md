@@ -68,6 +68,17 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 
 ## ✍️ Publications & Research
 
+### Previous Publications
+- [**Navigating the Challenges of Securing Hybrid Environments**](https://www.sans.org/webcasts/navigating-the-challenges-of-securing-hybrid-environments)
+  - *SANS Webcast*
+  - **Date:** July 29, 2025
+  - **Focus:** 
+    - Hybrid environment security blind spots and challenges
+    - Consistent policy enforcement across cloud and on-prem
+    - Real-world Zero Trust strategies
+    - AI-powered hybrid visibility and detection
+    - High-risk endpoint protection and lateral attack prevention
+
 ### Upcoming Publications
 - [**Balancing On-Prem and Cloud Security: Strategic Considerations for Modern Organizations**](https://www.sans.org/webcasts/balancing-on-prem-cloud-security-strategic-considerations)
   - *SANS Webcast*
