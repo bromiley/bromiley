@@ -68,6 +68,12 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 
 ## ✍️ Publications & Research
 
+### Upcoming Publications
+- [**Balancing On-Prem and Cloud Security: Strategic Considerations for Modern Organizations**](https://www.sans.org/webcasts/balancing-on-prem-cloud-security-strategic-considerations)
+  - *SANS Webcast*
+  - **Date:** September 16, 2025, 1:00-2:00 PM EDT
+  - **Focus:** Cloud vs. hybrid security models, platformization trends, modern enterprise security architecture
+
 ### Previous Publications
 - [**Navigating the Challenges of Securing Hybrid Environments**](https://www.sans.org/webcasts/navigating-the-challenges-of-securing-hybrid-environments)
   - *SANS Webcast*
@@ -78,12 +84,6 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
     - Real-world Zero Trust strategies
     - AI-powered hybrid visibility and detection
     - High-risk endpoint protection and lateral attack prevention
-
-### Upcoming Publications
-- [**Balancing On-Prem and Cloud Security: Strategic Considerations for Modern Organizations**](https://www.sans.org/webcasts/balancing-on-prem-cloud-security-strategic-considerations)
-  - *SANS Webcast*
-  - **Date:** September 16, 2025, 1:00-2:00 PM EDT
-  - **Focus:** Cloud vs. hybrid security models, platformization trends, modern enterprise security architecture
 
 ## 📊 GitHub Activity
 
