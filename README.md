@@ -13,7 +13,7 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 
 ## 🔬 Research Focus
 
-- **AI in Security**: Exploring the intersection of artificial intelligence with SecOps/DFIR/IR.
+- **AI in Security**: Exploring the intersection of artificial intelligence with SecOps/Incident Response/Digital Forensics.
 - **Incident Management**: How to effectively handle, coordinate, and manage enterprise-level incidents.
 - **Incident Response**: Advanced host- and network-based digital forensics.
 - **Threat Detection**: Innovative approaches to threat hunting and detection engineering.
@@ -35,7 +35,7 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 ### Current Courses
 - [**SANS LDR553**: Cyber Incident Management](https://www.sans.org/cyber-security-courses/cyber-incident-management-training)
 - [**Advanced Security Operations and Threat Hunting (ASOTH)**](https://digitaldefenseinstitute.com/#courses)
-  - *Co-instructing with Eric and Whitney at Digital Defense Institute*
+  - *Co-instructed with Eric and Whitney at Digital Defense Institute*
 
 ### Upcoming Classes
 - [**SANS Emerging Threats: Leadership Response 2025**](https://www.sans.org/cyber-security-training-events/leadership-response-2025)
@@ -84,6 +84,33 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
     - Real-world Zero Trust strategies
     - AI-powered hybrid visibility and detection
     - High-risk endpoint protection and lateral attack prevention
+
+- [**Dev-to-Prod Mobile Security with Zimperium**](https://www.sans.org/webcasts/dev-to-prod-mobile-security-with-zimperium)
+  - *SANS Webcast*
+  - **Date:** September 10, 2024
+  - **Focus:** 
+    - Mobile application security from development to production
+    - Enterprise mobile security platform capabilities
+    - Comprehensive mobile security tools and modules
+    - Safeguarding sensitive data on mobile devices
+
+- [**Human-Powered Security with HackerOne**](https://www.sans.org/webcasts/human-powered-security-with-hackerone)
+  - *SANS Webcast*
+  - **Date:** August 21, 2024
+  - **Focus:** 
+    - Community-driven bug bounty programs
+    - Financial services, retail/e-commerce, and online services security
+    - Return on Mitigation (ROM) metrics
+    - Offensive security strategy enhancement
+
+- [**Secure Your Multi-Cloud Environment from Code to Cloud with Microsoft Defender for Cloud**](https://www.sans.org/webcasts/secure-your-multi-cloud-environment-from-code-to-cloud-with-microsoft-defender-cspm)
+  - *SANS Webcast*
+  - **Date:** June 26, 2024
+  - **Focus:** 
+    - Multi-cloud security posture management
+    - Code-to-cloud vulnerability identification
+    - Attack path analysis and risk prioritization
+    - Large-scale remediation strategies
 
 ## 📊 GitHub Activity
 
