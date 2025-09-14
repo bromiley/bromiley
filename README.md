@@ -34,10 +34,12 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 
 ### Current Courses
 - [**SANS LDR553**: Cyber Incident Management](https://www.sans.org/cyber-security-courses/cyber-incident-management-training)
-- [**Advanced Security Operations and Threat Hunting (ASOTH)**](https://digitaldefenseinstitute.com/#courses)
-  - *Co-instructed with Eric and Whitney at Digital Defense Institute*
 
 ### Upcoming Classes
+- [**SANS Cyber Defense Initiative 2025**](https://www.sans.org/cyber-security-training-events/cyber-defense-initiative-2025)
+  - LDR553: Cyber Incident Management
+  - **Dates:** December 12-17, 2025
+  - **Location:** Washington Hilton & Virtual (ET)
 - [**SANS Network Security 2025**](https://www.sans.org/cyber-security-training-events/network-security-2025)
   - LDR553: Cyber Incident Management
   - **Dates:** September 22-26, 2025
@@ -49,6 +51,7 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
   - **Dates:** October 27-31, 2025
 
 ### Past Classes
+- [**Advanced Security Operations and Threat Hunting (ASOTH)**](https://digitaldefenseinstitute.com/#courses)
 - [**SANS FOR508:** Advanced Incident Response, Threat Hunting, and Digital Forensics](https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training)
 - [**SANS 5OR572:** Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response](https://www.sans.org/cyber-security-courses/advanced-network-forensics-threat-hunting-incident-response)
 
