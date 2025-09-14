@@ -38,9 +38,6 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
   - *Co-instructed with Eric and Whitney at Digital Defense Institute*
 
 ### Upcoming Classes
-- [**SANS Emerging Threats: Leadership Response 2025**](https://www.sans.org/cyber-security-training-events/leadership-response-2025)
-  - LDR553: Cyber Incident Management
-  - **Dates:** August 25-29, 2025
 - [**SANS Network Security 2025**](https://www.sans.org/cyber-security-training-events/network-security-2025)
   - LDR553: Cyber Incident Management
   - **Dates:** September 22-26, 2025
@@ -56,6 +53,15 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 - [**SANS 5OR572:** Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response](https://www.sans.org/cyber-security-courses/advanced-network-forensics-threat-hunting-incident-response)
 
 ## 🎤 Upcoming Conferences & Events
+
+- [**FIRST Regional Symposium Latin America & Caribbean 2025**](https://www.first.org/events/symposium/latam2025/program#pAI-Powered-Incident-Response-That-Actually-Works)
+  - *FIRST (Forum of Incident Response and Security Teams)*
+  - **Date:** October 8, 2025
+  - **Location:** Latin America & Caribbean
+  - **Focus:**
+    - AI-Powered Incident Response strategies and practical implementations
+    - Practical security monitoring and threat detection with AI
+    - Cyber resilience coordination, collaboration, and communication frameworks
 
 - [**Fall Cyber Solutions Fest 2025: AI Track**](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2025-ai-track)
   - *SANS Solutions Forum*
