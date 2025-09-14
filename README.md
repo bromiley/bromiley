@@ -48,7 +48,6 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 - [**SANS Cyber Defense Initiative 2025**](https://www.sans.org/cyber-security-training-events/cyber-defense-initiative-2025)
   - LDR553: Cyber Incident Management
   - **Dates:** December 12-17, 2025
-  - **Location:** Washington Hilton & Virtual (ET)
 
 ### Past Classes
 - [**Advanced Security Operations and Threat Hunting (ASOTH)**](https://digitaldefenseinstitute.com/#courses)
