@@ -32,22 +32,18 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 
 ## 🎓 Teaching & Education
 
-### Current Courses
+### Current Course(s)
 - [**SANS LDR553**: Cyber Incident Management](https://www.sans.org/cyber-security-courses/cyber-incident-management-training)
 
-### Upcoming Classes
-- [**SANS Network Security 2025**](https://www.sans.org/cyber-security-training-events/network-security-2025)
-  - LDR553: Cyber Incident Management
-  - **Dates:** September 22-26, 2025
+### Upcoming LDR553 Teaches
 - [**SANS Amsterdam October 2025**](https://www.sans.org/cyber-security-training-events/amsterdam-october-2025)
-  - LDR553: Cyber Incident Management
   - **Dates:** October 20-24, 2025
 - [**SANS Orlando Fall 2025**](https://www.sans.org/cyber-security-training-events/orlando-fall-2025)
-  - LDR553: Cyber Incident Management
   - **Dates:** October 27-31, 2025
 - [**SANS Cyber Defense Initiative 2025**](https://www.sans.org/cyber-security-training-events/cyber-defense-initiative-2025)
-  - LDR553: Cyber Incident Management
   - **Dates:** December 12-17, 2025
+- [**SANS London April 2026**](https://www.sans.org/cyber-security-training-events/london-april-2026)
+  - **Dates:** April 13-18, 2026
 
 ### Past Classes
 - [**Advanced Security Operations and Threat Hunting (ASOTH)**](https://digitaldefenseinstitute.com/#courses)
@@ -77,12 +73,31 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 ## ✍️ Publications & Research
 
 ### Upcoming Publications
+- [**Full Packet Capture as a Strategic and Regulatory Imperative**](https://www.sans.org/webcasts/full-packet-capture-as-a-strategic-and-regulatory-imperative-sep-2025)
+  - *SANS Webcast*
+  - **Date:** November 13, 2025, 1:00-2:00 PM EST
+  - **Focus:** 
+    - Regulatory mandates driving FPC requirements (OMB M-21-31, NIS2, DORA, GDPR, HIPAA, PCI-DSS)
+    - Strategic implementation of Full Packet Capture for compliance and Zero Trust initiatives
+    - Technical capabilities for forensic analysis and real-time visibility
+    - Building business case for FPC implementation at scale
+
+- [**Pay to Play: Surviving and Winning Ransomware Negotiations in 2025**](https://www.sans.org/webcasts/cyber-defense-initiative-pay-play-surviving-winning-ransomware-negotiations-2025)
+  - *SANS@Night Presentation*
+  - **Date:** December 16, 2025, 7:15-8:15 PM EST
+  - **Focus:**
+    - Real-world ransomware negotiation strategies and decision-making frameworks
+    - Analysis of 2024 ransom payment trends (25% payment rate, 46% recovery rate)
+    - Case study: Coinbase $20M ransom demand flipped into $20M bounty for attacker arrests
+    - Technical protocols for verifying attacker claims and maintaining leverage
+    - Professionalized RaaS platforms and triple extortion tactics
+
+### Previous Publications
 - [**Balancing On-Prem and Cloud Security: Strategic Considerations for Modern Organizations**](https://www.sans.org/webcasts/balancing-on-prem-cloud-security-strategic-considerations)
   - *SANS Webcast*
   - **Date:** September 16, 2025, 1:00-2:00 PM EDT
   - **Focus:** Cloud vs. hybrid security models, platformization trends, modern enterprise security architecture
-
-### Previous Publications
+  
 - [**Navigating the Challenges of Securing Hybrid Environments**](https://www.sans.org/webcasts/navigating-the-challenges-of-securing-hybrid-environments)
   - *SANS Webcast*
   - **Date:** July 29, 2025
