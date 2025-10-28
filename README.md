@@ -36,8 +36,6 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 - [**SANS LDR553**: Cyber Incident Management](https://www.sans.org/cyber-security-courses/cyber-incident-management-training)
 
 ### Upcoming LDR553 Teaches
-- [**SANS Amsterdam October 2025**](https://www.sans.org/cyber-security-training-events/amsterdam-october-2025)
-  - **Dates:** October 20-24, 2025
 - [**SANS Orlando Fall 2025**](https://www.sans.org/cyber-security-training-events/orlando-fall-2025)
   - **Dates:** October 27-31, 2025
 - [**SANS Cyber Defense Initiative 2025**](https://www.sans.org/cyber-security-training-events/cyber-defense-initiative-2025)
@@ -51,15 +49,6 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 - [**SANS 5OR572:** Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response](https://www.sans.org/cyber-security-courses/advanced-network-forensics-threat-hunting-incident-response)
 
 ## 🎤 Upcoming Conferences & Events
-
-- [**FIRST Regional Symposium Latin America & Caribbean 2025**](https://www.first.org/events/symposium/latam2025/program#pAI-Powered-Incident-Response-That-Actually-Works)
-  - *FIRST (Forum of Incident Response and Security Teams)*
-  - **Date:** October 8, 2025
-  - **Location:** Latin America & Caribbean
-  - **Focus:**
-    - AI-Powered Incident Response strategies and practical implementations
-    - Practical security monitoring and threat detection with AI
-    - Cyber resilience coordination, collaboration, and communication frameworks
 
 - [**Fall Cyber Solutions Fest 2025: AI Track**](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2025-ai-track)
   - *SANS Solutions Forum*
@@ -93,6 +82,15 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
     - Professionalized RaaS platforms and triple extortion tactics
 
 ### Previous Publications
+- [**FIRST Regional Symposium Latin America & Caribbean 2025**](https://www.first.org/events/symposium/latam2025/program#pAI-Powered-Incident-Response-That-Actually-Works)
+  - *FIRST (Forum of Incident Response and Security Teams)*
+  - **Date:** October 8, 2025
+  - **Location:** Latin America & Caribbean
+  - **Focus:**
+    - AI-Powered Incident Response strategies and practical implementations
+    - Practical security monitoring and threat detection with AI
+    - Cyber resilience coordination, collaboration, and communication frameworks
+
 - [**Balancing On-Prem and Cloud Security: Strategic Considerations for Modern Organizations**](https://www.sans.org/webcasts/balancing-on-prem-cloud-security-strategic-considerations)
   - *SANS Webcast*
   - **Date:** September 16, 2025, 1:00-2:00 PM EDT
