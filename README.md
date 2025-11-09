@@ -36,8 +36,6 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 - [**SANS LDR553**: Cyber Incident Management](https://www.sans.org/cyber-security-courses/cyber-incident-management-training)
 
 ### Upcoming LDR553 Teaches
-- [**SANS Orlando Fall 2025**](https://www.sans.org/cyber-security-training-events/orlando-fall-2025)
-  - **Dates:** October 27-31, 2025
 - [**SANS Cyber Defense Initiative 2025**](https://www.sans.org/cyber-security-training-events/cyber-defense-initiative-2025)
   - **Dates:** December 12-17, 2025
 - [**SANS London April 2026**](https://www.sans.org/cyber-security-training-events/london-april-2026)
@@ -50,18 +48,21 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 
 ## 🎤 Upcoming Conferences & Events
 
-- [**Fall Cyber Solutions Fest 2025: AI Track**](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2025-ai-track)
-  - *SANS Solutions Forum*
-  - **Date:** November 6, 2025, 8:00 AM - 4:00 PM EST
-  - **Focus:**
-    - Emerging trends and technologies shaping the AI landscape
-    - Real-world applications and case studies from diverse sectors
-    - Best practices for integrating AI into existing systems
-    - Ethical considerations and responsible AI development
+_TBD_
 
 ## ✍️ Publications & Research
 
 ### Upcoming Publications
+- [**Autonomous Endpoint Management: Next-Gen Endpoint Visibility Fueling SecOps and IT Ops with AI**](https://www.sans.org/webcasts/tanium-autonomous-endpoint-management-next-gen-secops-ai)
+  - *SANS Webcast*
+  - **Date:** November 12, 2025, 3:30-4:00 PM EST
+  - **Focus:**
+    - Tanium Autonomous Endpoint Management (AEM) platform overview
+    - AI-driven intelligence for unified IT and Security operations
+    - Real-time endpoint visibility and automated compliance management
+    - Accelerated incident response with guided remediation and workflow orchestration
+    - Single-agent architecture benefits and measurable ROI
+
 - [**Full Packet Capture as a Strategic and Regulatory Imperative**](https://www.sans.org/webcasts/full-packet-capture-as-a-strategic-and-regulatory-imperative-sep-2025)
   - *SANS Webcast*
   - **Date:** November 13, 2025, 1:00-2:00 PM EST
