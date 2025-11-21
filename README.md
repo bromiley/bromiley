@@ -38,8 +38,12 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 ### Upcoming LDR553 Teaches
 - [**SANS Cyber Defense Initiative 2025**](https://www.sans.org/cyber-security-training-events/cyber-defense-initiative-2025)
   - **Dates:** December 12-17, 2025
+- [**SANS Cyber Incident Management 2026**](https://www.sans.org/cyber-security-training-events/cyber-incident-management-2026)
+  - **Dates:** February 9-14, 2026
 - [**SANS London April 2026**](https://www.sans.org/cyber-security-training-events/london-april-2026)
   - **Dates:** April 13-18, 2026
+- [**SANS Chicago 2026**](https://www.sans.org/cyber-security-training-events/chicago-2026)
+  - **Dates:** June 8-13, 2026
 
 ### Past Classes
 - [**Advanced Security Operations and Threat Hunting (ASOTH)**](https://digitaldefenseinstitute.com/#courses)
