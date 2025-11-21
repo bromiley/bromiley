@@ -53,25 +53,6 @@ _TBD_
 ## ✍️ Publications & Research
 
 ### Upcoming Publications
-- [**Autonomous Endpoint Management: Next-Gen Endpoint Visibility Fueling SecOps and IT Ops with AI**](https://www.sans.org/webcasts/tanium-autonomous-endpoint-management-next-gen-secops-ai)
-  - *SANS Webcast*
-  - **Date:** November 12, 2025, 3:30-4:00 PM EST
-  - **Focus:**
-    - Tanium Autonomous Endpoint Management (AEM) platform overview
-    - AI-driven intelligence for unified IT and Security operations
-    - Real-time endpoint visibility and automated compliance management
-    - Accelerated incident response with guided remediation and workflow orchestration
-    - Single-agent architecture benefits and measurable ROI
-
-- [**Full Packet Capture as a Strategic and Regulatory Imperative**](https://www.sans.org/webcasts/full-packet-capture-as-a-strategic-and-regulatory-imperative-sep-2025)
-  - *SANS Webcast*
-  - **Date:** November 13, 2025, 1:00-2:00 PM EST
-  - **Focus:** 
-    - Regulatory mandates driving FPC requirements (OMB M-21-31, NIS2, DORA, GDPR, HIPAA, PCI-DSS)
-    - Strategic implementation of Full Packet Capture for compliance and Zero Trust initiatives
-    - Technical capabilities for forensic analysis and real-time visibility
-    - Building business case for FPC implementation at scale
-
 - [**Pay to Play: Surviving and Winning Ransomware Negotiations in 2025**](https://www.sans.org/webcasts/cyber-defense-initiative-pay-play-surviving-winning-ransomware-negotiations-2025)
   - *SANS@Night Presentation*
   - **Date:** December 16, 2025, 7:15-8:15 PM EST
@@ -83,6 +64,25 @@ _TBD_
     - Professionalized RaaS platforms and triple extortion tactics
 
 ### Previous Publications
+- [**Full Packet Capture as a Strategic and Regulatory Imperative**](https://www.sans.org/webcasts/full-packet-capture-as-a-strategic-and-regulatory-imperative-sep-2025)
+  - *SANS Webcast*
+  - **Date:** November 13, 2025, 1:00-2:00 PM EST
+  - **Focus:** 
+    - Regulatory mandates driving FPC requirements (OMB M-21-31, NIS2, DORA, GDPR, HIPAA, PCI-DSS)
+    - Strategic implementation of Full Packet Capture for compliance and Zero Trust initiatives
+    - Technical capabilities for forensic analysis and real-time visibility
+    - Building business case for FPC implementation at scale
+
+- [**Autonomous Endpoint Management: Next-Gen Endpoint Visibility Fueling SecOps and IT Ops with AI**](https://www.sans.org/webcasts/tanium-autonomous-endpoint-management-next-gen-secops-ai)
+  - *SANS Webcast*
+  - **Date:** November 12, 2025, 3:30-4:00 PM EST
+  - **Focus:**
+    - Tanium Autonomous Endpoint Management (AEM) platform overview
+    - AI-driven intelligence for unified IT and Security operations
+    - Real-time endpoint visibility and automated compliance management
+    - Accelerated incident response with guided remediation and workflow orchestration
+    - Single-agent architecture benefits and measurable ROI
+
 - [**FIRST Regional Symposium Latin America & Caribbean 2025**](https://www.first.org/events/symposium/latam2025/program#pAI-Powered-Incident-Response-That-Actually-Works)
   - *FIRST (Forum of Incident Response and Security Teams)*
   - **Date:** October 8, 2025
