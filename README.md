@@ -36,14 +36,19 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 - [**SANS LDR553**: Cyber Incident Management](https://www.sans.org/cyber-security-courses/cyber-incident-management-training)
 
 ### Upcoming LDR553 Teaches
-- [**SANS Cyber Defense Initiative 2025**](https://www.sans.org/cyber-security-training-events/cyber-defense-initiative-2025)
-  - **Dates:** December 12-17, 2025
 - [**SANS Cyber Incident Management 2026**](https://www.sans.org/cyber-security-training-events/cyber-incident-management-2026)
+  - **Location:** Canberra, ACT, Australia
   - **Dates:** February 9-14, 2026
 - [**SANS London April 2026**](https://www.sans.org/cyber-security-training-events/london-april-2026)
   - **Dates:** April 13-18, 2026
 - [**SANS Chicago 2026**](https://www.sans.org/cyber-security-training-events/chicago-2026)
   - **Dates:** June 8-13, 2026
+- [**SANSFIRE 2026**](https://www.sans.org/cyber-security-training-events/sansfire-2026)
+  - **Location:** Washington, DC
+  - **Dates:** July 13-18, 2026
+- [**SANS Virginia Beach 2026**](https://www.sans.org/cyber-security-training-events/virginia-beach-2026)
+  - **Location:** Virginia Beach, VA
+  - **Dates:** August 24 - September 4, 2026
 
 ### Past Classes
 - [**Advanced Security Operations and Threat Hunting (ASOTH)**](https://digitaldefenseinstitute.com/#courses)
@@ -52,11 +57,23 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 
 ## 🎤 Upcoming Conferences & Events
 
-_TBD_
+- [**AI Summit Solutions Track 2026**](https://www.sans.org/webcasts/ai-summit-solutions-track-2026)
+  - *SANS Webcast*
+  - **Date:** April 21, 2026, 10:00 AM EDT
+  - **Focus:** Real-world approaches to applying AI in cybersecurity programs, moving from theory to measurable impact
+
+- [**Fall Cyber Solutions Fest 2026: AI Track**](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2026-ai-track)
+  - *SANS Webcast*
+  - **Date:** November 19, 2026, 10:00 AM EST
+  - **Focus:** How artificial intelligence is transforming cybersecurity—from accelerating threat detection and response to reshaping automation, analytics, and SOC workflows
 
 ## ✍️ Publications & Research
 
 ### Upcoming Publications
+
+_Check back soon for upcoming publications and presentations._
+
+### Previous Publications
 - [**Pay to Play: Surviving and Winning Ransomware Negotiations in 2025**](https://www.sans.org/webcasts/cyber-defense-initiative-pay-play-surviving-winning-ransomware-negotiations-2025)
   - *SANS@Night Presentation*
   - **Date:** December 16, 2025, 7:15-8:15 PM EST
@@ -67,7 +84,10 @@ _TBD_
     - Technical protocols for verifying attacker claims and maintaining leverage
     - Professionalized RaaS platforms and triple extortion tactics
 
-### Previous Publications
+- [**Fall Cyber Solutions Fest 2025: AI Track**](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2025-ai-track)
+  - *SANS Webcast*
+  - **Date:** November 6, 2025, 9:30 AM EST
+  - **Focus:** How AI is transforming business operations, enhancing decision-making, and creating new opportunities for growth
 - [**Full Packet Capture as a Strategic and Regulatory Imperative**](https://www.sans.org/webcasts/full-packet-capture-as-a-strategic-and-regulatory-imperative-sep-2025)
   - *SANS Webcast*
   - **Date:** November 13, 2025, 1:00-2:00 PM EST
@@ -143,4 +163,4 @@ _TBD_
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bromiley&show_icons=true&theme=dark&count_private=true)
 
 ---
-<sub>💡 Last Updated: 2025-08-17 20:15:00 UTC</sub>
+<sub>💡 Last Updated: 2025-12-26 00:00:00 UTC</sub>
