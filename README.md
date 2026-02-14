@@ -36,9 +36,8 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
 - [**SANS LDR553**: Cyber Incident Management](https://www.sans.org/cyber-security-courses/cyber-incident-management-training)
 
 ### Upcoming LDR553 Teaches
-- [**SANS Cyber Incident Management 2026**](https://www.sans.org/cyber-security-training-events/cyber-incident-management-2026)
-  - **Location:** Canberra, ACT, Australia
-  - **Dates:** February 9-14, 2026
+- [**SANS 2026**](https://www.sans.org/cyber-security-training-events/sans-2026) | Orlando
+  - **Dates:** March 29 – April 3, 2026
 - [**SANS London April 2026**](https://www.sans.org/cyber-security-training-events/london-april-2026)
   - **Dates:** April 13-18, 2026
 - [**SANS Chicago 2026**](https://www.sans.org/cyber-security-training-events/chicago-2026)
@@ -48,7 +47,10 @@ I am a cybersecurity professional specializing in Security Operations (SecOps) a
   - **Dates:** July 13-18, 2026
 - [**SANS Virginia Beach 2026**](https://www.sans.org/cyber-security-training-events/virginia-beach-2026)
   - **Location:** Virginia Beach, VA
-  - **Dates:** August 24 - September 4, 2026
+  - **Dates:** August 24 – September 4, 2026
+- [**SANS Cyber Safari 2026**](https://www.sans.org/cyber-security-training-events/cyber-safari-2026)
+  - **Location:** Riyadh, Saudi Arabia
+  - **Dates:** October 3-29, 2026
 
 ### Past Classes
 - [**Advanced Security Operations and Threat Hunting (ASOTH)**](https://digitaldefenseinstitute.com/#courses)
