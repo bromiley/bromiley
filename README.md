@@ -1,168 +1,92 @@
 # Matt Bromiley
 
-> SecOps R&D @ Prophet Security | SANS Certified Instructor | Digital Forensics & IR Expert
+> **AI Security & Incident Response** · Security R&D @ Prophet Security · SANS Certified Instructor (LDR553)
 
-## 👋 About Me
-
-I am a cybersecurity professional specializing in Security Operations (SecOps) and Incident Response and Management, with a rich background in incident response/management, digital forensics, threat hunting, and detection engineering. I am currently working on SecOps R&D at Prophet Security, teaching Incident Management at SANS, and delivering talks and workshops at conferences around the globe.
-
-### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bromiley)
-[![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/bromiley.io)
-[![SANS](https://img.shields.io/badge/SANS_Profile-082054?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAARFJREFUKJGVkjFLw1AUhb97X2IS0KFQihlKoUPBoXP/QKdu/QUR/QXiYhdx6qCDuDi5uSjFoT/AwUGKXQqClIZAY977HNIQgwh64HKHe+53OOdeJWJ+YW1yc7P9XIqof4zvHh6eme8Pz8S2QISZIhqt7F3eJ8BEVfndb+4WVqD9kHaEwBUC51G/SZI4Huu7xWqh37odtJQIgmAFQPL2+ml96mpO8pHxGABhRBAZAxCG4QoA7/tZ3UrHZ5dfHZ2c7uxub21ubG1UIpH09W3QePx8s729UwLIZjkAxlh830eazdsMgLUWEQEgDEOstTOxMQZrLdZarLX/AKy1OOdwzmGMQVVn4G+WxhiMMVhrMcZMx38AhEoqHca6YnsAAAAASUVORK5CYII=)](https://www.sans.org/profiles/matt-bromiley)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/bromiley.io)
+[![SANS](https://img.shields.io/badge/SANS_Profile-082054?style=for-the-badge)](https://www.sans.org/profiles/matt-bromiley)
+[![Podcast](https://img.shields.io/badge/Cybersecurity_Defenders-podcast-FF6B00?style=for-the-badge)](https://limacharlie.io/podcast)
 
-## 🔬 Research Focus
+## 👋 About
 
-- **AI in Security**: Exploring the intersection of artificial intelligence with SecOps/Incident Response/Digital Forensics.
-- **Incident Management**: How to effectively handle, coordinate, and manage enterprise-level incidents.
-- **Incident Response**: Advanced host- and network-based digital forensics.
-- **Threat Detection**: Innovative approaches to threat hunting and detection engineering.
-- **Security Operations**: Developing cutting-edge methodologies and best practices for SecOps workflows.
+I've spent 14+ years in incident response, digital forensics, and security operations, from leading large breach investigations to building SOC capabilities. Today I work in Security R&D at Prophet Security on AI-driven SOC automation. That includes securing and monitoring LLM and agentic applications in production.
 
-## 🚀 Projects
+I teach incident command for SANS (LDR553: Cyber Incident Management), write SANS research on AI and security operations, and speak at conferences around the world.
 
-- [**Critical AI Security Guidelines**](https://www.sans.org/mlp/critical-ai-security-guidelines)
-  - *SANS Community Project*
-  - **Repository:** [GitHub](https://github.com/sans-community/ai-guidelines)
-  - **Focus:** 
-    - Secure AI deployments with multi-layered security approach
-    - Protection against model poisoning, prompt injection, and adversarial attacks
-    - Governance frameworks that adapt to AI advancements
-    - Balancing security and scalability in AI model hosting
+## 🔬 Focus Areas
 
-## 🎓 Teaching & Education
+- **AI Threat Defense:** prompt injection, agent and tool abuse, and monitoring of LLM and agentic systems
+- **AI-Augmented SecOps:** using AI to accelerate detection, triage, and response
+- **Incident Management:** incident command, coordination, and communications for enterprise incidents
+- **DFIR & Threat Hunting:** host and network forensics, and detection engineering
 
-### Current Course(s)
-- [**SANS LDR553**: Cyber Incident Management](https://www.sans.org/cyber-security-courses/cyber-incident-management-training)
+## 🛡️ AI Security Work
 
-### Upcoming LDR553 Teaches
-- [**SANS 2026**](https://www.sans.org/cyber-security-training-events/sans-2026) | Orlando
-  - **Dates:** March 29 – April 3, 2026
-- [**SANS London April 2026**](https://www.sans.org/cyber-security-training-events/london-april-2026)
-  - **Dates:** April 13-18, 2026
-- [**SANS Chicago 2026**](https://www.sans.org/cyber-security-training-events/chicago-2026)
-  - **Dates:** June 8-13, 2026
-- [**SANSFIRE 2026**](https://www.sans.org/cyber-security-training-events/sansfire-2026)
-  - **Location:** Washington, DC
-  - **Dates:** July 13-18, 2026
-- [**SANS Virginia Beach 2026**](https://www.sans.org/cyber-security-training-events/virginia-beach-2026)
-  - **Location:** Virginia Beach, VA
-  - **Dates:** August 24 – September 4, 2026
-- [**SANS Cyber Safari 2026**](https://www.sans.org/cyber-security-training-events/cyber-safari-2026)
-  - **Location:** Riyadh, Saudi Arabia
-  - **Dates:** October 3-29, 2026
+- **[SANS Critical AI Security Guidelines](https://www.sans.org/mlp/critical-ai-security-guidelines)**: SANS community project for securing AI deployments ([repo](https://github.com/sans-community/ai-guidelines))
+- **[2026 SANS AI Survey Insights](https://www.sans.org/white-papers/2026-sans-ai-survey-insights)**: white paper on AI as both a security tool and an attack surface (Jul 2026)
+- **[AI-Powered Incident Response That Actually Works](https://www.first.org/events/symposium/latam2025/program#pAI-Powered-Incident-Response-That-Actually-Works)**: FIRST Regional Symposium LATAM & Caribbean (Oct 2025)
 
-### Past Classes
-- [**Advanced Security Operations and Threat Hunting (ASOTH)**](https://digitaldefenseinstitute.com/#courses)
-- [**SANS FOR508:** Advanced Incident Response, Threat Hunting, and Digital Forensics](https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training)
-- [**SANS 5OR572:** Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response](https://www.sans.org/cyber-security-courses/advanced-network-forensics-threat-hunting-incident-response)
+## 🎓 Teaching
 
-## 🎤 Upcoming Conferences & Events
+**[SANS LDR553: Cyber Incident Management](https://www.sans.org/cyber-security-courses/cyber-incident-management-training)** (GIAC Cyber Incident Leader)
 
-- [**AI Summit Solutions Track 2026**](https://www.sans.org/webcasts/ai-summit-solutions-track-2026)
-  - *SANS Webcast*
-  - **Date:** April 21, 2026, 10:00 AM EDT
-  - **Focus:** Real-world approaches to applying AI in cybersecurity programs, moving from theory to measurable impact
+| Event | Location | Course start |
+|---|---|---|
+| [SANS Cyber Safari 2026](https://www.sans.org/cyber-security-training-events/cyber-safari-2026) | Riyadh | Oct 18, 2026 *(in progress)* |
+| [SANS Cyber Defense Initiative 2026](https://www.sans.org/cyber-security-training-events/cyber-defense-initiative-2026) | Washington, DC + Virtual | Dec 14, 2026 |
+| [SANS Las Vegas 2027](https://www.sans.org/cyber-security-training-events/las-vegas-2027) | Las Vegas + Virtual | Feb 22, 2027 |
+| [SANS Amsterdam May 2027](https://www.sans.org/cyber-security-training-events/amsterdam-may-2027) | Amsterdam | May 10, 2027 |
 
-- [**Fall Cyber Solutions Fest 2026: AI Track**](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2026-ai-track)
-  - *SANS Webcast*
-  - **Date:** November 19, 2026, 10:00 AM EST
-  - **Focus:** How artificial intelligence is transforming cybersecurity—from accelerating threat detection and response to reshaping automation, analytics, and SOC workflows
+Live schedule: [SANS instructor profile](https://www.sans.org/profiles/matt-bromiley)
 
-## ✍️ Publications & Research
+**Also taught:** [Advanced Security Operations & Threat Hunting](https://digitaldefenseinstitute.com/#courses) (Black Hat) · [SANS FOR508](https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training) · [SANS FOR572](https://www.sans.org/cyber-security-courses/advanced-network-forensics-threat-hunting-incident-response)
 
-### Upcoming Publications
+## 🎤 Upcoming Talks
 
-_Check back soon for upcoming publications and presentations._
+| Date | Talk |
+|---|---|
+| Nov 9, 2026 | [How Predictive AI Is Rewriting the Attacker Timeline](https://www.sans.org/webcasts/how-predictive-ai-rewriting-attacker-timeline) |
+| Nov 19, 2026 | [Fall Cyber Solutions Fest 2026: AI Track](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2026-ai-track) |
+| Nov 20, 2026 | [The Agents You Didn't Know You Had: Shadow AI and the AI Supply Chain](https://www.sans.org/webcasts/agents-you-didnt-know-you-had-shadow-ai-the-ai-supply-chain) (with Sounil Yu) |
+| Dec 4, 2026 | [Microsegmentation Buyer's Guide](https://www.sans.org/webcasts/microsegmentation-buyers-guide-how-to-evaluate-solutions-zero-trust-hybrid-cloud) |
+| Dec 10, 2026 | [Beyond Human Identity: Securing the Agentic Workforce with Zero Trust](https://www.sans.org/webcasts/beyond-human-identity-securing-agentic-workforce-zero-trust) |
+| Dec 10, 2026 | [Beyond the Weakest Link: Defending the Human Edge in the Age of AI](https://www.sans.org/webcasts/beyond-weakest-link-new-research-defending-human-edge-age-ai) |
+| May 26, 2027 | [2027 SANS Cyber Resilience Survey Insights](https://www.sans.org/webcasts/2027-sans-cyber-resilience-survey-insights-measuring-gap-between-recovery-confidence-recovery-reality) (survey author) |
 
-### Previous Publications
-- [**Pay to Play: Surviving and Winning Ransomware Negotiations in 2025**](https://www.sans.org/webcasts/cyber-defense-initiative-pay-play-surviving-winning-ransomware-negotiations-2025)
-  - *SANS@Night Presentation*
-  - **Date:** December 16, 2025, 7:15-8:15 PM EST
-  - **Focus:**
-    - Real-world ransomware negotiation strategies and decision-making frameworks
-    - Analysis of 2024 ransom payment trends (25% payment rate, 46% recovery rate)
-    - Case study: Coinbase $20M ransom demand flipped into $20M bounty for attacker arrests
-    - Technical protocols for verifying attacker claims and maintaining leverage
-    - Professionalized RaaS platforms and triple extortion tactics
+## ✍️ Recent Research & Talks
 
-- [**Fall Cyber Solutions Fest 2025: AI Track**](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2025-ai-track)
-  - *SANS Webcast*
-  - **Date:** November 6, 2025, 9:30 AM EST
-  - **Focus:** How AI is transforming business operations, enhancing decision-making, and creating new opportunities for growth
-- [**Full Packet Capture as a Strategic and Regulatory Imperative**](https://www.sans.org/webcasts/full-packet-capture-as-a-strategic-and-regulatory-imperative-sep-2025)
-  - *SANS Webcast*
-  - **Date:** November 13, 2025, 1:00-2:00 PM EST
-  - **Focus:** 
-    - Regulatory mandates driving FPC requirements (OMB M-21-31, NIS2, DORA, GDPR, HIPAA, PCI-DSS)
-    - Strategic implementation of Full Packet Capture for compliance and Zero Trust initiatives
-    - Technical capabilities for forensic analysis and real-time visibility
-    - Building business case for FPC implementation at scale
+**SANS white papers (2026)**
+- [AI + Network Control: Visibility, Risk Prioritization, and Automation in the Age of Agentic NetOps](https://www.sans.org/white-papers/ai-network-control-visibility-risk-prioritization-automation-age-agentic-netops) (Jul 2026)
+- [In-Depth Endpoint Forensics and Response at Scale](https://www.sans.org/white-papers/in-depth-endpoint-forensics-response-at-scale) (Apr 2026)
+- [Comprehensive Identity Protection for Today's Enterprise](https://www.sans.org/white-papers/comprehensive-identity-protection-todays-enterprise) (Apr 2026)
 
-- [**Autonomous Endpoint Management: Next-Gen Endpoint Visibility Fueling SecOps and IT Ops with AI**](https://www.sans.org/webcasts/tanium-autonomous-endpoint-management-next-gen-secops-ai)
-  - *SANS Webcast*
-  - **Date:** November 12, 2025, 3:30-4:00 PM EST
-  - **Focus:**
-    - Tanium Autonomous Endpoint Management (AEM) platform overview
-    - AI-driven intelligence for unified IT and Security operations
-    - Real-time endpoint visibility and automated compliance management
-    - Accelerated incident response with guided remediation and workflow orchestration
-    - Single-agent architecture benefits and measurable ROI
+**Selected talks**
+- [AI + Network Control in the Age of Agentic NetOps](https://www.sans.org/webcasts/ai-plus-network-control-visibility-risk-prioritization-automation-age-agentic-netops): SANS webcast (Oct 2026)
+- [SANS 2026 Government Security Forum](https://www.sans.org/webcasts/government-forum-2026) (Jul 2026)
+- [AI Summit Solutions Track 2026](https://www.sans.org/webcasts/ai-summit-solutions-track-2026) (Apr 2026)
+- [Enterprise DFIR at Scale: From Investigation to Response](https://www.sans.org/webcasts/enterprise-dfir-scale-investigation-response) (Apr 2026)
+- [Pay to Play: Surviving and Winning Ransomware Negotiations](https://www.sans.org/webcasts/cyber-defense-initiative-pay-play-surviving-winning-ransomware-negotiations-2025): SANS@Night, CDI 2025 (Dec 2025)
 
-- [**FIRST Regional Symposium Latin America & Caribbean 2025**](https://www.first.org/events/symposium/latam2025/program#pAI-Powered-Incident-Response-That-Actually-Works)
-  - *FIRST (Forum of Incident Response and Security Teams)*
-  - **Date:** October 8, 2025
-  - **Location:** Latin America & Caribbean
-  - **Focus:**
-    - AI-Powered Incident Response strategies and practical implementations
-    - Practical security monitoring and threat detection with AI
-    - Cyber resilience coordination, collaboration, and communication frameworks
+The full list of papers and webcasts is on my [SANS profile](https://www.sans.org/profiles/matt-bromiley).
 
-- [**Balancing On-Prem and Cloud Security: Strategic Considerations for Modern Organizations**](https://www.sans.org/webcasts/balancing-on-prem-cloud-security-strategic-considerations)
-  - *SANS Webcast*
-  - **Date:** September 16, 2025, 1:00-2:00 PM EDT
-  - **Focus:** Cloud vs. hybrid security models, platformization trends, modern enterprise security architecture
-  
-- [**Navigating the Challenges of Securing Hybrid Environments**](https://www.sans.org/webcasts/navigating-the-challenges-of-securing-hybrid-environments)
-  - *SANS Webcast*
-  - **Date:** July 29, 2025
-  - **Focus:** 
-    - Hybrid environment security blind spots and challenges
-    - Consistent policy enforcement across cloud and on-prem
-    - Real-world Zero Trust strategies
-    - AI-powered hybrid visibility and detection
-    - High-risk endpoint protection and lateral attack prevention
+## 🧰 Open-Source Tools
 
-- [**Dev-to-Prod Mobile Security with Zimperium**](https://www.sans.org/webcasts/dev-to-prod-mobile-security-with-zimperium)
-  - *SANS Webcast*
-  - **Date:** September 10, 2024
-  - **Focus:** 
-    - Mobile application security from development to production
-    - Enterprise mobile security platform capabilities
-    - Comprehensive mobile security tools and modules
-    - Safeguarding sensitive data on mobile devices
+- **[olaf](https://github.com/bromiley/olaf)**: Office 365 Log Analysis Framework (PowerShell)
+- **[pollen](https://github.com/bromiley/pollen)**: command-line client for TheHive (Python)
+- **[lc-detections](https://github.com/bromiley/lc-detections)**: LimaCharlie detections mapped to MITRE ATT&CK, CVEs, and research
+- **[tools](https://github.com/bromiley/tools)**: assorted DFIR scripts (Python)
 
-- [**Human-Powered Security with HackerOne**](https://www.sans.org/webcasts/human-powered-security-with-hackerone)
-  - *SANS Webcast*
-  - **Date:** August 21, 2024
-  - **Focus:** 
-    - Community-driven bug bounty programs
-    - Financial services, retail/e-commerce, and online services security
-    - Return on Mitigation (ROM) metrics
-    - Offensive security strategy enhancement
+## 🎙️ Podcast
 
-- [**Secure Your Multi-Cloud Environment from Code to Cloud with Microsoft Defender for Cloud**](https://www.sans.org/webcasts/secure-your-multi-cloud-environment-from-code-to-cloud-with-microsoft-defender-cspm)
-  - *SANS Webcast*
-  - **Date:** June 26, 2024
-  - **Focus:** 
-    - Multi-cloud security posture management
-    - Code-to-cloud vulnerability identification
-    - Attack path analysis and risk prioritization
-    - Large-scale remediation strategies
+I'm a weekly guest and regular co-host on **[The Cybersecurity Defenders Podcast](https://limacharlie.io/podcast)**, LimaCharlie's weekly show about cybersecurity and the people who keep the internet safe.
 
-## 📊 GitHub Activity
+**Latest Intel Chat episodes** (refreshed weekly)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bromiley&show_icons=true&theme=dark&count_private=true)
-
----
-<sub>💡 Last Updated: 2025-12-26 00:00:00 UTC</sub>
+<!-- PODCAST:START -->
+| Date | Episode |
+|---|---|
+| Sep 11, 2026 | [Intel Chat: Claude models reached real systems, an AI safety resignation & ShieldCrash (#347)](https://share.transistor.fm/s/c5c87836) |
+| Sep 3, 2026 | [Intel Chat: OpenAI's Astra hits Critical, DEF CON phishing, Philippine nuclear breach (#346)](https://share.transistor.fm/s/37514554) |
+| Aug 14, 2026 | [Intel Chat: AI patches fail, LiteLLM supply chain, Claude eval incidents & DPRK npm (#345)](https://share.transistor.fm/s/8f51bb28) |
+| Aug 8, 2026 | [Intel Chat: Shai-Hulud is back, model pinning & the token spend problem (#343)](https://share.transistor.fm/s/92522306) |
+<!-- PODCAST:END -->
