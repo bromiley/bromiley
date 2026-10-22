@@ -3,7 +3,7 @@
 > **AI Security & Incident Response** · Security R&D @ Prophet Security · SANS Certified Instructor (LDR553)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bromiley)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/bromiley.io)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_bromiley)
 [![SANS](https://img.shields.io/badge/SANS_Profile-082054?style=for-the-badge)](https://www.sans.org/profiles/matt-bromiley)
 [![Podcast](https://img.shields.io/badge/Cybersecurity_Defenders-podcast-FF6B00?style=for-the-badge)](https://limacharlie.io/podcast)
 
@@ -68,13 +68,6 @@ Live schedule: [SANS instructor profile](https://www.sans.org/profiles/matt-brom
 - [Pay to Play: Surviving and Winning Ransomware Negotiations](https://www.sans.org/webcasts/cyber-defense-initiative-pay-play-surviving-winning-ransomware-negotiations-2025): SANS@Night, CDI 2025 (Dec 2025)
 
 The full list of papers and webcasts is on my [SANS profile](https://www.sans.org/profiles/matt-bromiley).
-
-## 🧰 Open-Source Tools
-
-- **[olaf](https://github.com/bromiley/olaf)**: Office 365 Log Analysis Framework (PowerShell)
-- **[pollen](https://github.com/bromiley/pollen)**: command-line client for TheHive (Python)
-- **[lc-detections](https://github.com/bromiley/lc-detections)**: LimaCharlie detections mapped to MITRE ATT&CK, CVEs, and research
-- **[tools](https://github.com/bromiley/tools)**: assorted DFIR scripts (Python)
 
 ## 🎙️ Podcast
 
