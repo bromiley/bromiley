@@ -33,7 +33,6 @@ I teach incident command for SANS (LDR553: Cyber Incident Management), write SAN
 <!-- SANS:TEACHING:START -->
 | Event | Location | Course start |
 |---|---|---|
-| [SANS Cyber Safari 2026](https://www.sans.org/cyber-security-training-events/cyber-safari-2026) | Riyadh + Virtual | Oct 18, 2026 *(in progress)* |
 | [SANS Cyber Defense Initiative 2026](https://www.sans.org/cyber-security-training-events/cyber-defense-initiative-2026) | Washington + Virtual | Dec 14, 2026 |
 | [SANS Las Vegas 2027](https://www.sans.org/cyber-security-training-events/las-vegas-2027) | Las Vegas + Virtual | Feb 22, 2027 |
 | [SANS Amsterdam May 2027](https://www.sans.org/cyber-security-training-events/amsterdam-may-2027) | Amsterdam | May 10, 2027 |
