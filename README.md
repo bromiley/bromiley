@@ -51,8 +51,8 @@ Live schedule: [SANS instructor profile](https://www.sans.org/profiles/matt-brom
 | Nov 19, 2026 | [Fall Cyber Solutions Fest 2026: AI Track](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2026-ai-track) |
 | Nov 20, 2026 | [The Agents You Didn't Know You Had: Shadow AI and the AI Supply Chain](https://www.sans.org/webcasts/agents-you-didnt-know-you-had-shadow-ai-the-ai-supply-chain) (with Sounil Yu) |
 | Dec 4, 2026 | [Microsegmentation Buyer's Guide: How to Evaluate Solutions for Zero Trust and Hybrid Cloud](https://www.sans.org/webcasts/microsegmentation-buyers-guide-how-to-evaluate-solutions-zero-trust-hybrid-cloud) |
-| Dec 10, 2026 | [Beyond the Weakest Link: New Research on Defending the Human Edge in the Age of AI](https://www.sans.org/webcasts/beyond-weakest-link-new-research-defending-human-edge-age-ai) |
 | Dec 10, 2026 | [Beyond Human Identity: Securing the Agentic Workforce with Zero Trust](https://www.sans.org/webcasts/beyond-human-identity-securing-agentic-workforce-zero-trust) |
+| Feb 9, 2027 | [Beyond the Weakest Link: New Research on Defending the Human Edge in the Age of AI](https://www.sans.org/webcasts/beyond-weakest-link-new-research-defending-human-edge-age-ai) |
 | May 26, 2027 | [2027 SANS Cyber Resilience Survey Insights: Measuring the Gap Between Recovery Confidence and Recovery Reality](https://www.sans.org/webcasts/2027-sans-cyber-resilience-survey-insights-measuring-gap-between-recovery-confidence-recovery-reality) |
 <!-- SANS:UPCOMING:END -->
 
