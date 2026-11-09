@@ -50,8 +50,7 @@ Live schedule: [SANS instructor profile](https://www.sans.org/profiles/matt-brom
 | Nov 9, 2026 | [How Predictive AI Is Rewriting the Attacker Timeline](https://www.sans.org/webcasts/how-predictive-ai-rewriting-attacker-timeline) (with Paul Miller) |
 | Nov 19, 2026 | [Fall Cyber Solutions Fest 2026: AI Track](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2026-ai-track) |
 | Nov 20, 2026 | [The Agents You Didn't Know You Had: Shadow AI and the AI Supply Chain](https://www.sans.org/webcasts/agents-you-didnt-know-you-had-shadow-ai-the-ai-supply-chain) (with Sounil Yu) |
-| Dec 4, 2026 | [Microsegmentation Buyer's Guide: How to Evaluate Solutions for Zero Trust and Hybrid Cloud](https://www.sans.org/webcasts/microsegmentation-buyers-guide-how-to-evaluate-solutions-zero-trust-hybrid-cloud) |
-| Dec 10, 2026 | [Beyond Human Identity: Securing the Agentic Workforce with Zero Trust](https://www.sans.org/webcasts/beyond-human-identity-securing-agentic-workforce-zero-trust) |
+| Dec 10, 2026 | [Beyond Human Identity: Securing the Agentic Workforce with Zero Trust](https://www.sans.org/webcasts/beyond-human-identity-securing-agentic-workforce-zero-trust) (with Prabhu Barathi) |
 | Feb 9, 2027 | [Beyond the Weakest Link: New Research on Defending the Human Edge in the Age of AI](https://www.sans.org/webcasts/beyond-weakest-link-new-research-defending-human-edge-age-ai) |
 | May 26, 2027 | [2027 SANS Cyber Resilience Survey Insights: Measuring the Gap Between Recovery Confidence and Recovery Reality](https://www.sans.org/webcasts/2027-sans-cyber-resilience-survey-insights-measuring-gap-between-recovery-confidence-recovery-reality) |
 <!-- SANS:UPCOMING:END -->
@@ -85,8 +84,8 @@ I'm a weekly guest and regular co-host on **[The Cybersecurity Defenders Podcast
 <!-- PODCAST:START -->
 | Date | Episode |
 |---|---|
+| Nov 9, 2026 | [Intel Chat: Binance's $6.34B heist, supermarket fridge attacks, Belarus wiper, XCPE botnet (#352)](https://share.transistor.fm/s/8051c5c6) |
+| Oct 13, 2026 | [Intel Chat: NetScaler pre-auth RCE, OpenAI agents DDoS Wikimedia, MonsterCloud & ShinyHunters (#351)](https://share.transistor.fm/s/b8dfadb2) |
 | Sep 11, 2026 | [Intel Chat: Claude models reached real systems, an AI safety resignation & ShieldCrash (#347)](https://share.transistor.fm/s/c5c87836) |
 | Sep 3, 2026 | [Intel Chat: OpenAI's Astra hits Critical, DEF CON phishing, Philippine nuclear breach (#346)](https://share.transistor.fm/s/37514554) |
-| Aug 14, 2026 | [Intel Chat: AI patches fail, LiteLLM supply chain, Claude eval incidents & DPRK npm (#345)](https://share.transistor.fm/s/8f51bb28) |
-| Aug 8, 2026 | [Intel Chat: Shai-Hulud is back, model pinning & the token spend problem (#343)](https://share.transistor.fm/s/92522306) |
 <!-- PODCAST:END -->
