@@ -47,7 +47,6 @@ Live schedule: [SANS instructor profile](https://www.sans.org/profiles/matt-brom
 <!-- SANS:UPCOMING:START -->
 | Date | Talk |
 |---|---|
-| Nov 9, 2026 | [How Predictive AI Is Rewriting the Attacker Timeline](https://www.sans.org/webcasts/how-predictive-ai-rewriting-attacker-timeline) (with Paul Miller) |
 | Nov 19, 2026 | [Fall Cyber Solutions Fest 2026: AI Track](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2026-ai-track) |
 | Nov 20, 2026 | [The Agents You Didn't Know You Had: Shadow AI and the AI Supply Chain](https://www.sans.org/webcasts/agents-you-didnt-know-you-had-shadow-ai-the-ai-supply-chain) (with Sounil Yu) |
 | Dec 10, 2026 | [Beyond Human Identity: Securing the Agentic Workforce with Zero Trust](https://www.sans.org/webcasts/beyond-human-identity-securing-agentic-workforce-zero-trust) (with Prabhu Barathi) |
@@ -66,11 +65,11 @@ Live schedule: [SANS instructor profile](https://www.sans.org/profiles/matt-brom
 - [When Trusted Senders Become Threats: Stopping BEC and Supply Chain Attacks with Self-Learning AI](https://www.sans.org/white-papers/when-trusted-senders-become-threats-stopping-bec-supply-chain-attacks-self-learning-ai) (Apr 2026)
 
 **Recent talks**
+- [How Predictive AI Is Rewriting the Attacker Timeline](https://www.sans.org/webcasts/how-predictive-ai-rewriting-attacker-timeline) (with Paul Miller) (Nov 2026)
 - [AI + Network Control: Visibility, Risk Prioritization, and Automation in the Age of Agentic NetOps](https://www.sans.org/webcasts/ai-plus-network-control-visibility-risk-prioritization-automation-age-agentic-netops) (with Avishai Wool) (Oct 2026)
 - [SANS 2026 Government Security Forum](https://www.sans.org/webcasts/government-forum-2026) (Jul 2026)
 - [Risk-Adaptive DLP Strategy Guide](https://www.sans.org/webcasts/risk-adaptive-dlp-strategy-guide) (with Rajan Koo) (May 2026)
 - [Enterprise DFIR at Scale: From Investigation to Response](https://www.sans.org/webcasts/enterprise-dfir-scale-investigation-response) (with Eric Hutnyk) (Apr 2026)
-- [When Trusted Senders Become Threats: Stopping BEC and Supply Chain Attacks with Self‑Learning AI](https://www.sans.org/webcasts/when-trusted-senders-become-threats-stopping-bec-supply-chain-attacks-selflearning-ai) (with Carlos Gonzalez Gray) (Apr 2026)
 <!-- SANS:RECENT:END -->
 
 The full list of papers and webcasts is on my [SANS profile](https://www.sans.org/profiles/matt-bromiley).
@@ -84,8 +83,8 @@ I'm a weekly guest and regular co-host on **[The Cybersecurity Defenders Podcast
 <!-- PODCAST:START -->
 | Date | Episode |
 |---|---|
+| Nov 14, 2026 | [Intel Chat: Japan's ¥10B cyber fund, Apache HTTP/2 RCE, 60K GitHub repos, France blames Iran (#354)](https://share.transistor.fm/s/b997cebb) |
 | Nov 9, 2026 | [Intel Chat: Binance's $6.34B heist, supermarket fridge attacks, Belarus wiper, XCPE botnet (#352)](https://share.transistor.fm/s/8051c5c6) |
 | Oct 13, 2026 | [Intel Chat: NetScaler pre-auth RCE, OpenAI agents DDoS Wikimedia, MonsterCloud & ShinyHunters (#351)](https://share.transistor.fm/s/b8dfadb2) |
 | Sep 11, 2026 | [Intel Chat: Claude models reached real systems, an AI safety resignation & ShieldCrash (#347)](https://share.transistor.fm/s/c5c87836) |
-| Sep 3, 2026 | [Intel Chat: OpenAI's Astra hits Critical, DEF CON phishing, Philippine nuclear breach (#346)](https://share.transistor.fm/s/37514554) |
 <!-- PODCAST:END -->
