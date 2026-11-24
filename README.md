@@ -47,8 +47,6 @@ Live schedule: [SANS instructor profile](https://www.sans.org/profiles/matt-brom
 <!-- SANS:UPCOMING:START -->
 | Date | Talk |
 |---|---|
-| Nov 19, 2026 | [Fall Cyber Solutions Fest 2026: AI Track](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2026-ai-track) |
-| Nov 20, 2026 | [The Agents You Didn't Know You Had: Shadow AI and the AI Supply Chain](https://www.sans.org/webcasts/agents-you-didnt-know-you-had-shadow-ai-the-ai-supply-chain) (with Sounil Yu) |
 | Dec 10, 2026 | [Beyond Human Identity: Securing the Agentic Workforce with Zero Trust](https://www.sans.org/webcasts/beyond-human-identity-securing-agentic-workforce-zero-trust) (with Prabhu Barathi) |
 | Feb 9, 2027 | [Beyond the Weakest Link: New Research on Defending the Human Edge in the Age of AI](https://www.sans.org/webcasts/beyond-weakest-link-new-research-defending-human-edge-age-ai) |
 | May 26, 2027 | [2027 SANS Cyber Resilience Survey Insights: Measuring the Gap Between Recovery Confidence and Recovery Reality](https://www.sans.org/webcasts/2027-sans-cyber-resilience-survey-insights-measuring-gap-between-recovery-confidence-recovery-reality) |
@@ -65,11 +63,11 @@ Live schedule: [SANS instructor profile](https://www.sans.org/profiles/matt-brom
 - [When Trusted Senders Become Threats: Stopping BEC and Supply Chain Attacks with Self-Learning AI](https://www.sans.org/white-papers/when-trusted-senders-become-threats-stopping-bec-supply-chain-attacks-self-learning-ai) (Apr 2026)
 
 **Recent talks**
+- [The Agents You Didn't Know You Had: Shadow AI and the AI Supply Chain](https://www.sans.org/webcasts/agents-you-didnt-know-you-had-shadow-ai-the-ai-supply-chain) (with Sounil Yu) (Nov 2026)
+- [Fall Cyber Solutions Fest 2026: AI Track](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2026-ai-track) (Nov 2026)
 - [How Predictive AI Is Rewriting the Attacker Timeline](https://www.sans.org/webcasts/how-predictive-ai-rewriting-attacker-timeline) (with Paul Miller) (Nov 2026)
 - [AI + Network Control: Visibility, Risk Prioritization, and Automation in the Age of Agentic NetOps](https://www.sans.org/webcasts/ai-plus-network-control-visibility-risk-prioritization-automation-age-agentic-netops) (with Avishai Wool) (Oct 2026)
 - [SANS 2026 Government Security Forum](https://www.sans.org/webcasts/government-forum-2026) (Jul 2026)
-- [Risk-Adaptive DLP Strategy Guide](https://www.sans.org/webcasts/risk-adaptive-dlp-strategy-guide) (with Rajan Koo) (May 2026)
-- [Enterprise DFIR at Scale: From Investigation to Response](https://www.sans.org/webcasts/enterprise-dfir-scale-investigation-response) (with Eric Hutnyk) (Apr 2026)
 <!-- SANS:RECENT:END -->
 
 The full list of papers and webcasts is on my [SANS profile](https://www.sans.org/profiles/matt-bromiley).
